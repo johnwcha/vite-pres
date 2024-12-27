@@ -1,0 +1,21 @@
+---
+layout: home
+hero:
+  name: My Faith Notes (User)
+  text: A VitePress Site
+  tagline: Simple, powerful, and fast. Meet the modern SSG framework you've always wanted.
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /guide/introduction
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/your-repo
+features:
+  - title: Feature A
+    details: Description of feature A
+  - title: Feature B
+    details: Description of feature B
+  - title: Feature C
+    details: Description of feature C
+---
